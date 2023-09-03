@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Web development**
 
-- 🌱 I’m currently learning **SpringBoot, MERN Stack, REST APIs**
+- 🌱 I’m currently learning **SpringBoot, NodeJs, ReactJs, REST APIs**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, SpringBoot**
 
